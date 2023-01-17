@@ -23,9 +23,6 @@ _Visitors Experience Assistant & Family Engagement Assistant_
 • Working closely with children and families as part of the family engagement team
 • Developing a keen understand of how to communicate with people from different demographics  
 
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
 **LUCHFORD Communications** (September 2019 to May 2020)  
 _Senior Account Executive_
 
@@ -34,15 +31,12 @@ _Senior Account Executive_
 • Crisis management; responding to press and liaising with the client in the face of client adversity and industry turmoil
 • Organising every aspect of events and group press trips
 
-
 **Grayling Communications** (August 2018 to September 2019)  
 _Account Executive_
 
 • Proactively outreach to press
 • Managing and coordinating agencies in different markets
 • Creating in depth, analytical reports showcasing work done for clients.
-
-- Any experience relevent to software development
 
 ## Skills
 
@@ -78,13 +72,10 @@ I seek out constructive feedback and view it in a positive light. I always want 
 ## Education
 
 #### Makers Academy (November 2022 to February 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Learned the fundamental principles of software engineering, such as OOP, TDD and SOLID, as well as Agile and XP methodologies.
+- Worked in a broad range of languages and frameworks such as Ruby, Ruby on Rails, Sinatra, Javascript, React, Express, MongoDB and PostgreSQL.
+- Successfully collaborated with other  learners to identify  realistic MVP’s and deliver them to deadlines.
+
 
 #### University of Kent (October 2013 to July 2017)
 
@@ -94,8 +85,8 @@ I seek out constructive feedback and view it in a positive light. I always want 
 
 ## Hobbies
 
-• Yoga - to stretch out after a day at the computer
-• Weight training - to work out the frustration after a particularly difficult CodeCater
-• Reading - I haven't stopped since I first learned how
-• Music - I am a singer-songwriter (when I feel inspired!)
-• Baking - I'm currently honing my piping skills 
+- Yoga - to stretch out after a day at the computer
+- Weight training - to work out the frustration after a particularly difficult CodeCater
+- Reading - I haven't stopped since I first learned how
+- Music - I am a singer-songwriter (when I feel inspired!)
+- Baking - I'm currently honing my piping skills 
