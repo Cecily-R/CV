@@ -9,7 +9,7 @@ I first discovered the world of tech while I was working in PR, through a femtec
 ## Projects
 
 | Name                         | Description                                                       | Tech/tools                  |
-| ---------------------------- | ----------------- | ----------------------------------------------| ----------------------------|
+| ---------------------------- | ----------------------------------------------------------------- | ----------------------------|
 | **Final project**            | A webapp to do x.                                                 | React, Jest, etc.           |
 | **Acebook**                  | A Facebook clone, where users can post, like and comment on posts,| Mern stack, Jest and Cypress|
 |                              | build a profile and send and receive friend requests.             |                             |
