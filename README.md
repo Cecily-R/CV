@@ -88,8 +88,8 @@ I seek out constructive feedback and view it in a positive light. I always want 
 
 ## Hobbies
 
-- Yoga - to stretch out after a day at the computer
-- Weight training - to work out the frustration after a particularly difficult CodeCater
-- Reading - I haven't stopped since I first learned how
-- Music - I am a singer-songwriter (when I feel inspired!)
-- Baking - I'm currently honing my piping skills 
+- **Yoga** - to stretch out after a day at the computer
+- **Weight training** - to work out the frustration after a particularly difficult CodeCater
+- **Reading** - I haven't stopped since I first learned how
+- **Music** - I am a singer-songwriter (when I feel inspired!)
+- **Knitting** - Problem solving is in my blood! 
