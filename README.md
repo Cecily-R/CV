@@ -10,9 +10,11 @@ I first discovered the world of tech while I was working in PR, through a femtec
 
 | Name                         | Description                                                       | Tech/tools                  |
 | ---------------------------- | ----------------------------------------------------------------- | ----------------------------|
-| **dOdO - endangered species map ** | An interactive map for users to see the endangered species in the world by county |React, Sinatra, Rspec and Jest| | **Acebook**                        | A Facebook clone, where users can post, like and comment.         | Mern stack, Jest and Cypress|
-|                                    |                                                             |                             |
-                               
+|**dOdO - endangered species map** | An interactive map for users to see the endangered species in the world by county. |React, Sinatra, Rspec and Jest |  
+| **Acebook**                     | A Facebook clone, where users can post, like and comment on posts, as well as send friend requests to other users.| MERN stack, Jest and Cypress|
+|**Makersbnb**                    | An Airbnb clone, where users can post a property for short-term rental, and request to rent a property. |Ruby, Sinatra, Rspec, PostgreSQL | 
+|**Workout Buddy**                | An app where users can keep track of workouts by adding exercises, weight and reps. | MERN stack |
+|**Birthday Calculator**          | An app which calculates how many days until a users birthday or wishes them a happy birthday if it is that very day. |Ruby, Rspec|
 
 ## Work Experience
 
