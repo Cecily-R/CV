@@ -10,9 +10,8 @@ I first discovered the world of tech while I was working in PR, through a femtec
 
 | Name                         | Description                                                       | Tech/tools                  |
 | ---------------------------- | ----------------------------------------------------------------- | ----------------------------|
-| **Final project**            | A webapp to do x.                                                 | React, Jest, etc.           |
-| **Acebook**                  | A Facebook clone, where users can post, like and comment.         | Mern stack, Jest and Cypress|
-|                              |                                                                   |                             |
+| **dOdO - endangered species map ** | An interactive map for users to see the endangered species in the world by county |React, Sinatra, Rspec and Jest| | **Acebook**                        | A Facebook clone, where users can post, like and comment.         | Mern stack, Jest and Cypress|
+|                                    |                                                             |                             |
                                
 
 ## Work Experience
